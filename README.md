@@ -1,3 +1,6 @@
-## Welcome to my profile :wave:
+## Boas vindas ao meu perfil :wave:
 
-My name is Michael
+Meu nome é Michael
+
+- Estou estudando na Alura
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
